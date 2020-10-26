@@ -55,7 +55,7 @@ main {
     border-radius: 8rem;
 }
 
-.input_group {
+.input-group {
     width: 100%;
     overflow: hidden;
     font-size: 20px;
@@ -64,11 +64,11 @@ main {
     border-bottom: 2px solid #4f554f;  
 }
 
-.input_group:hover {
+.input-group:hover {
       border-bottom: 2px solid rgb(64, 180, 209);
 }
 
-.input_group i {
+.input-group i {
     width: 26px;
     float: left;
     text-align: center;
