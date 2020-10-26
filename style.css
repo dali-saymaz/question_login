@@ -16,7 +16,6 @@ main section {
     position: absolute;
     flex-direction: column;
   
-  
 }
 main {
     display: flex;
